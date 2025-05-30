@@ -1,0 +1,15 @@
+body{
+    width: 700px;
+    height: 800px;
+    margin: 0 auto;
+}
+header{
+    text-align: center;
+}
+.texto{
+    text-align: justify; 
+}
+
+h2{
+    color: blue;
+}
